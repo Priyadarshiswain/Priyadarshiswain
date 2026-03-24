@@ -2,7 +2,7 @@
 
 **Senior Architect · .NET & Azure · Building AI-powered tools**
 
-I've spent 13 years designing and shipping enterprise-grade systems — from distributed .NET backends to Angular frontends to cloud-native Azure architectures. These days I'm deep in AI and ML, and I'm wiring it into everything I build.
+I've spent 14 years designing and shipping enterprise-grade systems — from distributed .NET backends to Angular frontends to cloud-native Azure architectures. These days I'm deep in AI and ML, and I'm wiring it into everything I build.
 
 ---
 
@@ -47,7 +47,7 @@ I've spent 13 years designing and shipping enterprise-grade systems — from dis
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyadarshiswain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshi-swain-80768896/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Priyadarshiswain)
 
 ---
