@@ -8,6 +8,7 @@ I've spent 14 years designing and shipping enterprise-grade systems — from dis
 
 ## What I'm working on
 
+- 📊 **[tokenomics](https://github.com/Priyadarshiswain/tokenomics)** — A Claude Code plugin that measures where a session's tokens and context actually go: HTML reports, a live status line, cache-rebuild detection with causes. Token counts only, no pricing. There's a Codex CLI port too ([tokenomics-codex](https://github.com/Priyadarshiswain/tokenomics-codex)), and [an essay on the mechanism](https://github.com/Priyadarshiswain/tokenomics/blob/main/docs/anatomy-of-a-session.md).
 - 🤖 **[Chitragupta](https://github.com/Priyadarshiswain/chitragupta)** — A persistent memory layer for AI agents. Claude has no memory between sessions. Chitragupta fixes that. Self-hostable, MongoDB-backed, protocol-agnostic.
 - 🔧 **[JiraMcpRestWrapper](https://github.com/Priyadarshiswain/JiraMcpRestWrapper)** — REST wrapper for Jira's MCP server. Makes Jira accessible to any AI agent that speaks MCP.
 - 🧪 **[sk-playground](https://github.com/Priyadarshiswain/sk-playground)** — My AI learning lab. Semantic Kernel experiments, RAG patterns, agent architectures — all in C#.
@@ -33,6 +34,7 @@ I've spent 14 years designing and shipping enterprise-grade systems — from dis
 ## What I'm learning right now
 
 - AI agent memory architectures
+- Context engineering — where tokens and context actually go in long agent sessions
 - Multi-agent orchestration with Semantic Kernel
 - ML fundamentals and how to apply them in real products
 - Building my own Jarvis 🚀
@@ -41,7 +43,7 @@ I've spent 14 years designing and shipping enterprise-grade systems — from dis
 
 ## Background
 
-13 years in enterprise .NET. I've built systems for logistics, finance, and large-scale SaaS. I know what production looks like — the scale, the failure modes, the boring bits that actually matter. Now I'm bringing AI into that world, not as a demo, but as real working software.
+14 years in enterprise .NET. I've built systems for logistics, finance, and large-scale SaaS. I know what production looks like — the scale, the failure modes, the boring bits that actually matter. Now I'm bringing AI into that world, not as a demo, but as real working software.
 
 ---
 
