@@ -10,8 +10,7 @@ I've spent 14 years designing and shipping enterprise-grade systems — from dis
 
 - 📊 **[tokenomics](https://github.com/Priyadarshiswain/tokenomics)** — A Claude Code plugin that measures where a session's tokens and context actually go: HTML reports, a live status line, cache-rebuild detection with causes. Token counts only, no pricing. There's a Codex CLI port too ([tokenomics-codex](https://github.com/Priyadarshiswain/tokenomics-codex)), and [an essay on the mechanism](https://github.com/Priyadarshiswain/tokenomics/blob/main/docs/anatomy-of-a-session.md).
 - 🤖 **[Chitragupta](https://github.com/Priyadarshiswain/chitragupta)** — A persistent memory layer for AI agents. Claude has no memory between sessions. Chitragupta fixes that. Self-hostable, MongoDB-backed, protocol-agnostic.
-- 🔧 **[JiraMcpRestWrapper](https://github.com/Priyadarshiswain/JiraMcpRestWrapper)** — REST wrapper for Jira's MCP server. Makes Jira accessible to any AI agent that speaks MCP.
-- 🧪 **[sk-playground](https://github.com/Priyadarshiswain/sk-playground)** — My AI learning lab. Semantic Kernel experiments, RAG patterns, agent architectures — all in C#.
+- 🔎 **[Sanjaya](https://github.com/Priyadarshiswain/Sanjaya)** — Local-first codebase discovery for AI agents: an MCP server built on Roslyn that gives agents precise navigation and verifiable evidence instead of guesswork.
 
 ---
 
