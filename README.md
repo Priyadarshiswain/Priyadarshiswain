@@ -16,17 +16,20 @@ I've spent 14 years designing and shipping enterprise-grade systems — from dis
 
 ## Tech I work with every day
 
-**Backend**
-`C#` `.NET 8/9` `ASP.NET Core` `Semantic Kernel` `Entity Framework` `MongoDB` `SQL Server`
+**Architecture & Design**
+`Distributed Systems` `Microservices` `Event-Driven Architecture` `Cloud-Native Patterns` `API Design` `System Integration`
 
-**Cloud & DevOps**
-`Azure` `Azure DevOps` `Docker` `CI/CD Pipelines` `Azure Functions` `Service Bus`
+**Backend**
+`C#` `.NET 8/9` `ASP.NET Core` `Python` `Semantic Kernel` `Entity Framework` `MongoDB` `SQL Server`
+
+**Azure**
+`Azure AI Foundry` `Azure OpenAI` `Serverless & Compute` `Messaging & Integration` `DevOps & CI/CD` `Cloud-Native Architecture`
 
 **Frontend**
 `Angular` `TypeScript` `RxJS`
 
-**AI & ML**
-`Semantic Kernel` `MCP (Model Context Protocol)` `OpenAI` `Claude API` `RAG` `LLM Orchestration`
+**AI & Agent Tooling**
+`Claude Code (plugins)` `MCP (Model Context Protocol)` `Semantic Kernel` `Claude API` `OpenAI` `RAG` `LLM Orchestration`
 
 ---
 
